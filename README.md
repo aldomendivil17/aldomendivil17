@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
- <br/>
 
 - 🔭 I’m currently working on **School projects**
 
