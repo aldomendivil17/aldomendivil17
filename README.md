@@ -1,5 +1,4 @@
-### Hi, i´m Aldo Mendivil 👋
-
+# <div align="center">Hi 👋, I'm Aldo Mendivil</div>
 <!--
 **aldomendivil17/aldomendivil17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
