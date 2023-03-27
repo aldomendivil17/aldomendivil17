@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 
  <br/>
 
-- 🔭 I’m currently working on **personal projects**  
+- 🔭 I’m currently studiying **Software Engineering at ITSON**  
   
 
-- 🌱 I’m currently learning **Electron**  
+- ❓ Ask me about anything related to **Java, HTML, mySQL, JS**  
+
+
+- 🌱 I’m currently learning **React**  
   
 
-- ❓ Ask me about anything related to **Next, Java, JS, TS**  
-  
-
-- 📫 How to reach me **erickbernal.dev@gmail.com**  
+- 📫 How to reach me **Aldomendivil17@gmail.com**  
