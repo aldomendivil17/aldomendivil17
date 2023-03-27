@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.licdn.com/dms/image/C5616AQEO1SrvDC5-4w/profile-displaybackgroundimage-shrink_200_800/0/1638464906142?e=2147483647&v=beta&t=cYGBtHpIR3xOPF-ed1ausc6_TTesL7y3tLAlgU7JD-I))
 <h1 align="center">Hi 👋, I'm Aldo Mendivil</h1>
 <h3 align="center">A software engineer student from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif?cid=6c09b952425a14eaafa0b3cb51a83c4d40a6fa21f36350bf&rid=giphy.gif&ct=s"> <br>
