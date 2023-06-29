@@ -1,6 +1,6 @@
 ![MasterHead](https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2022-06/linkedinheaders-desktop.jpg)
 <h1 align="center">Hi 👋, I'm Aldo Mendivil</h1>
-<h3 align="center">A software engineer student from Mexico</h3>
+<h3 align="center">A software developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif?cid=6c09b952425a14eaafa0b3cb51a83c4d40a6fa21f36350bf&rid=giphy.gif&ct=s"> <br>
 
 - 🔭 I’m currently working on **School projects**
