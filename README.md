@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and typescript**
 
-- 💬 Ask me about **Java, JS, mySQL, HTML, CSS**
+- 💬 Ask me about **Java, Django, Python, JS, mySQL, HTML, CSS**
 
 - 📫 How to reach me **aldomendivil17@outlook.com**
 
