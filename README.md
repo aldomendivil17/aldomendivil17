@@ -1,20 +1,20 @@
 ![MasterHead](https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2022-06/linkedinheaders-desktop.jpg)
 # Hi 👋, I'm Aldo Mendivil
-# A software developer from Mexico
+## A software developer from Mexico
 
-- 🔭 I’m currently working on **School projects**
+- 🔭 I’m currently working at __[Media Aérea](https://github.com/mediaerea)__
 
-- 🌱 I’m currently learning **React and typescript**
+- 🌱 I’m currently studying my 7th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
 
 - 💬 Ask me about **Java, Django, Python, JS, mySQL, HTML, CSS**
 
-- 📫 How to reach me **aldomendivil17@outlook.com**
+- 📫 My email is **aldomendivil17@outlook.com**
 
-- ⚡ Fun fact **I'm a communicative person**
+- ⚡ since 2017 involved in the world of technology and programming
 
 
 ### Connect with me
-![https://linkedin.com/in/aldomendivil17](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin badge](https://img.shields.io/badge/-Servando-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/aldomendivil17)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
