@@ -35,15 +35,14 @@
 
 ### Tools
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![VSCode]([https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman]([https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white](https://github.com/postmanlabs/postman-badge-checker))
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldomendivil17&show_icons=true&locale=en" alt="aldomendivil17" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldomendivil17)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aldomendivil17&theme=dark)](https://git.io/streak-stats)
