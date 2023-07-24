@@ -25,7 +25,6 @@
 ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3476a9?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-1ea06e?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
