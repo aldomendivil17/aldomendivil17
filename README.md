@@ -14,7 +14,7 @@
 
 
 ### Connect with me
-[![Linkedin badge](https://img.shields.io/badge/-Aldo-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/aldomendivil17)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldomendivil17)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
