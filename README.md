@@ -45,4 +45,5 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aldomendivil17&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aldomendivil17&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aldomendivil17&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
