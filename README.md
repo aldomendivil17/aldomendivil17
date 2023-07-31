@@ -2,15 +2,15 @@
 # Hi 👋, I'm Aldo Mendivil
 ## A software developer from Mexico
 
-- 🔭 I’m currently working at __[Media Aérea](https://github.com/mediaerea)__
+◻️ I’m currently working at __[Media Aérea](https://github.com/mediaerea)__
 
-- 🌱 I’m currently studying my 7th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
+◻️ I’m currently studying my 7th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
 
-- 💬 Ask me about **Java, Django, Python, JS, mySQL, HTML, CSS**
+◻️ Ask me about **Java, Django, Python, JS, mySQL, HTML, CSS**
 
-- 📫 My email is **aldomendivil17@outlook.com**
+◻️ My email is **aldomendivil17@outlook.com**
 
-- ⚡ since 2017 involved in the world of technology and programming
+◻️ since 2017 involved in the world of technology and programming
 
 
 ### Connect with me
