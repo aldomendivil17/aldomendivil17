@@ -1,12 +1,12 @@
 ![MasterHead](https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/2022-06/linkedinheaders-desktop.jpg)
 # Hi 👋, I'm Aldo Mendivil
-## A software developer from Mexico
+## A FullStack software developer from Mexico
 
 ◻️ I’m currently working at __[Media Aérea](https://github.com/mediaerea)__
 
-◻️ I’m currently studying my 7th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
+◻️ I’m currently studying my 8th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
 
-◻️ Ask me about **Java, Django, Python, JS, mySQL, HTML, CSS**
+◻️ Ask me about **Javascript, Java, Django, Python, JS, mySQL, HTML, CSS**
 
 ◻️ My email is **aldomendivil17@outlook.com**
 
