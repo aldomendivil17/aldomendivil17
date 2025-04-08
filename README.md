@@ -4,8 +4,6 @@
 
 ◻️ I’m currently working at __[Media Aérea](https://github.com/mediaerea)__
 
-◻️ I’m currently studying my 8th semester in Software Engineering at __[ITSON](https://www.itson.mx/)__
-
 ◻️ Ask me about **Javascript, Java, Django, Python, JS, mySQL, HTML, CSS**
 
 ◻️ My email is **aldomendivil17@outlook.com**
